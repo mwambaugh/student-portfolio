@@ -1,1 +1,144 @@
+:root{
+    --primary: antiquewhite;
+    --dark: rgb(48, 47, 44);
+    --light: rgb(90, 135, 185);
+    --shadow: rgb(105, 99, 99);
+}
+
+html{
+    box-sizing:border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+body{
+    background: var(--dark);
+    margin:30px;
+    line-height: 1.4;
+}
+
+.btn{
+    background: var(--dark);
+color: var(--primary);
+padding:0.6rem, 1.3rem;
+text-decoration: none;
+border:0px;
+justify-content: center;
+}
+
+img{
+    max-width: 50%;
+}
+
+.wrapper {
+    display:grid;
+    grid-gap:20px;
+}
+
+/* navigation */
+.main-nav ul{
+display:flex;
+flex-wrap: wrap;
+grid-gap: 20px;
+padding: 1px;
+list-style: none;
+grid-template-columns: 1fr 1fr fr1 fr1;
+flex-direction: row;
+justify-content: end;
+}
+
+.main-nav a{
+    background: var(--primary);
+    display: block;
+    text-decoration: none;
+    padding: 0.8rem;
+    text-align: center;
+    color: black;
+    font-size:1.1rem;
+    box-shadow:var(--shadow);
+}
+
+.main-nav a:hover{
+    background: var(--dark);
+color:var(--light);
+}  
+
+.h1 {
+}
+
+.about work{
+    min-height: 33%;
+}
+
+.title img{
+    
+}
+
+.about {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.bio{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.about h1{
+}
+
+.top-container{
+display:flex;
+flex-direction: row;
+justify-content: center;
+}
+
+.semantic{
+    grid-area: semantic;
+    min-height: 800px;
+    background-color: antiquewhite;
+    background-position: center;
+    padding: 3rem;
+}
+
+.contact{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    grid-gap: 20px;
+    padding: 1px;
+    list-style: none;
+    justify-content:space-evenly;
+}
+
+.contact ul{
+    display:flex;
+    flex-wrap: wrap;
+    grid-gap: 20px;
+    padding: 1px;
+    list-style: none;
+    grid-template-columns: 1fr 1fr fr1 fr1;
+    flex-direction: row;
+    justify-content: end;
+ }   
+
+
+.contact a{
+    background: var(--primary);
+    display: block;
+    text-decoration: none;
+    padding: 0.8rem;
+    text-align: center;
+    color: black;
+    font-size:1.1rem;
+    box-shadow:var(--shadow);
+}
+
+.box{
+min-width: 400px;
+}
 
