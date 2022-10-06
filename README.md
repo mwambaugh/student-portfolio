@@ -11,6 +11,7 @@ This Portfolio Project focused on continuing HTML knowledge and application, CSS
 ![screenshot4](https://github.com/mwambaugh/student-portfolio/blob/eac483d7a9b202e66a59f066e8fcefdc082a3f6a/assets/Screenshot%202022-10-06%20151156.png)
 
 #Links:
+[Link to Portfolio Site](https://mwambaugh.github.io/student-portfolio/)
 
 #Usage This practice will provide future potential employers the opportunity to see student works and accomplishments. Students were driven to develop a working portfolio including the developer's name, photo, and biography.
 
