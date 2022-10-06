@@ -1,4 +1,4 @@
-# student-portfolio
+# Student-Portfolio
 Works Completed in UW Full Stack Coding Bootcamp Sept 22 to Mar 23
 
 This Portfolio Project focused on continuing HTML knowledge and application, CSS grid, flexbox, and responsive layout practices. Students worked to create an origional protfolio of work samples that can be added to in the future weeks. 
