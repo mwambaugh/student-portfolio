@@ -7,6 +7,10 @@ This Portfolio Project focused on continuing HTML knowledge and application, CSS
 Features of this develped portfolio include a working navigation bar, featured assignment, hover features, and working links to students applications. 
 
 #Visuals:
+![screenshot1](https://github.com/mwambaugh/student-portfolio/blob/eac483d7a9b202e66a59f066e8fcefdc082a3f6a/assets/Screenshot%202022-10-06%20150509.png)
+![screenshot2](https://github.com/mwambaugh/student-portfolio/blob/eac483d7a9b202e66a59f066e8fcefdc082a3f6a/assets/Screenshot%202022-10-06%20150559.png)
+![screenshot3](https://github.com/mwambaugh/student-portfolio/blob/eac483d7a9b202e66a59f066e8fcefdc082a3f6a/assets/Screenshot%202022-10-06%20150617.png)
+![screenshot4](https://github.com/mwambaugh/student-portfolio/blob/eac483d7a9b202e66a59f066e8fcefdc082a3f6a/assets/Screenshot%202022-10-06%20151156.png)
 
 #Links:
 
@@ -17,4 +21,4 @@ This practice will provide future potentional employers the oppertunity to see s
 This assignment was worked on by student, M.C. Wambaugh, with the support of her instructor John, TA's during office hours, classmates via SLACK, tutors and numerous dev community learning websites. This project was also accomplished with the educational support of YouTube tutorial on responsive, flexbox, and grid HTML and CSS. Many thanks to those who continue to support learning in the technological community.
 
 #License 
-https://choosealicense.com/licenses/mit/ 
+[MIT](https://choosealicense.com/licenses/mit/) 
